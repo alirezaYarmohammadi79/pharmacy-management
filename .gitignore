@@ -1,0 +1,15 @@
+/.vs
+bin
+obj
+.vshistory
+/ServiceHost/logReport
+/ServiceHost/wwwroot/SavedReports/AgreementReport/65a1db5d-2a13-426a-8bef-c742b7fa1cd4/Pdf/c88f39d4-7fb4-4b93-9367-12e3ae9992fc.pdf
+/ServiceHost/wwwroot/SavedReports/AgreementReport/99e2be2d-ade2-47b2-b5d7-a587ad90cfaa/Pdf/c88f39d4-7fb4-4b93-9367-12e3ae9992fc.pdf
+/Simorgh34000.IsolatorCache.user
+/ServiceHost/Properties/PublishProfiles/FolderProfile.pubxml.user
+/ServiceHost/ServiceHost.csproj.user
+/ServiceHost/Properties/PublishProfiles/FolderProfile.pubxml.user
+/ServiceHost/Properties/PublishProfiles/FolderProfile1.pubxml.user
+/ServiceHost/appsettings.Development.json
+/_NCrunch_Simorgh34000/StoredText
+/Simorgh34000.sln.DotSettings.user
